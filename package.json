@@ -1,0 +1,24 @@
+{
+  "name": "autotronproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy-open": "cypress open",
+    "cy-run": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.1",
+    "cypress-file-upload": "^3.5.1",
+    "cypress-wait-until": "^1.6.1",
+    "cypress-xpath": "^1.4.0",
+    "mocha": "^5.2.0",
+    "mochawesome": "^4.1.0"
+  },
+  "dependencies": {
+    "eslint": "^6.8.0"
+  }
+}

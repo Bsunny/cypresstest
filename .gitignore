@@ -13,6 +13,9 @@ _test-output
 cypress.zip
 tmp/
 .nyc_output
+mochawesome-report
+screenshots
+videos
 
 # from extension
 Cached Theme.pak
@@ -59,3 +62,6 @@ binary-url.json
 
 # Allows us to dynamically create eslint rules that override the default for Decaffeinate scripts
 .eslintrc.js
+
+videos
+screenshots
