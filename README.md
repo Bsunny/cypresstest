@@ -32,9 +32,7 @@ Follow the instructions below.
 
 ## Authors
 
-* Saurabh Dixit
 * Sunny Bhatia
-* Sagar Gupta
 
 ## Acknowledgments
 
